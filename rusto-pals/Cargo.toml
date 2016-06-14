@@ -1,0 +1,7 @@
+[package]
+name = "rusto-pals"
+version = "0.1.0"
+authors = ["md <mdenchev@users.noreply.github.com>"]
+
+[dependencies]
+rustc-serialize = "*"
